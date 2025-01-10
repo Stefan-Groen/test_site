@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Space+Mono&display=swap');
+
+* {
+    background-color: black;
+}
+
+.heading {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.link {
+    font-family: 'Roboto', sans-serif;
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
